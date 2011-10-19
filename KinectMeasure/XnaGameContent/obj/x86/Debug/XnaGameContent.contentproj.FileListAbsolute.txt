@@ -1,0 +1,1 @@
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\XnaGameContent\obj\x86\Debug\ResolveAssemblyReference.cache

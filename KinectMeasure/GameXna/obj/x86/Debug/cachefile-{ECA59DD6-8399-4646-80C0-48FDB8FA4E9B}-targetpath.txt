@@ -1,0 +1,5 @@
+XnaGameContent\Sprite.xnb
+XnaGameContent\dot.xnb
+XnaGameContent\font1.xnb
+XnaGameContent\click.xnb
+XnaGameContent\click.wma

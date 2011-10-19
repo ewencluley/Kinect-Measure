@@ -1,0 +1,12 @@
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\Sprite.xnb
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\GameXna.XML
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\GameXna.exe
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\GameXna.pdb
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\obj\x86\Debug\GameXna.exe
+c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\obj\x86\Debug\GameXna.pdb
+C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\dot.xnb
+C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\font1.xnb
+C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click.xnb
+C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click.wma
