@@ -30,13 +30,57 @@
     </Item>
     <Item>
       <Source>click_1.mp3</Source>
-      <Name>click</Name>
+      <Name>click_1</Name>
       <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
+      <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click.xnb</Output>
-      <Extra>C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click.wma</Extra>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click_1.xnb</Output>
       <Time>2011-10-17T22:39:00.8801074+01:00</Time>
+    </Item>
+    <Item>
+      <Source>BEEP2B.WAV</Source>
+      <Name>BEEP2B</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\BEEP2B.xnb</Output>
+      <Time>2011-10-31T15:28:12.5546456+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ls.png</Source>
+      <Name>ls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\ls.xnb</Output>
+      <Time>2011-11-23T10:38:42.1250979+00:00</Time>
+    </Item>
+    <Item>
+      <Source>rs.png</Source>
+      <Name>rs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\rs.xnb</Output>
+      <Time>2011-11-23T10:38:42.1270981+00:00</Time>
+    </Item>
+    <Item>
+      <Source>blue bar.png</Source>
+      <Name>blue bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\blue bar.xnb</Output>
+      <Time>2011-12-16T13:44:58.8017871+00:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteHorizontalBar.png</Source>
+      <Name>whiteHorizontalBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\whiteHorizontalBar.xnb</Output>
+      <Time>2011-12-29T11:58:15.5650188+00:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -44,10 +88,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\XnaGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\XnaGameContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\</OutputDirectory>
+      <RootDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\XnaGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\XnaGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

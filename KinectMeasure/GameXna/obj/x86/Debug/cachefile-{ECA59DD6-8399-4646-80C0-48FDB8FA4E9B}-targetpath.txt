@@ -1,5 +1,9 @@
 XnaGameContent\Sprite.xnb
 XnaGameContent\dot.xnb
 XnaGameContent\font1.xnb
-XnaGameContent\click.xnb
-XnaGameContent\click.wma
+XnaGameContent\click_1.xnb
+XnaGameContent\BEEP2B.xnb
+XnaGameContent\ls.xnb
+XnaGameContent\rs.xnb
+XnaGameContent\blue bar.xnb
+XnaGameContent\whiteHorizontalBar.xnb

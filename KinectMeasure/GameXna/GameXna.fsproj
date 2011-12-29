@@ -53,6 +53,11 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\KinectHelperMethods\KinectHelperMethods.csproj">
+      <Name>KinectHelperMethods</Name>
+      <Project>{bbed4607-252b-4ff9-864f-292eb3f6de53}</Project>
+      <Private>True</Private>
+    </ProjectReference>
     <ProjectReference Include="..\XnaGameContent\XnaGameContent.contentproj">
       <Name>XnaGameContent</Name>
       <Project>{5C3F5590-A8E7-486C-B8C7-EE424D7F5AD6}</Project>
@@ -60,6 +65,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PointCloud.fs" />
+    <Compile Include="BodyMeasurements.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\FSharp\1.0\Microsoft.FSharp.Targets" Condition="!Exists('$(MSBuildBinPath)\Microsoft.Build.Tasks.v4.0.dll')" />

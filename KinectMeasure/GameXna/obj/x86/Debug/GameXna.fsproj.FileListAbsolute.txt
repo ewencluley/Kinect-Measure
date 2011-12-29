@@ -8,5 +8,11 @@ c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\
 c:\users\ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\obj\x86\Debug\GameXna.pdb
 C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\dot.xnb
 C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\font1.xnb
-C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click.xnb
-C:\Users\Ewen\documents\visual studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click.wma
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\click_1.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\BEEP2B.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\ls.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\rs.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\blue bar.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\KinectHelperMethods.dll
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\KinectHelperMethods.pdb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectMeasure\GameXna\bin\Debug\XnaGameContent\whiteHorizontalBar.xnb
