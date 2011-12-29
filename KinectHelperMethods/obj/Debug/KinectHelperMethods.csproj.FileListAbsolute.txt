@@ -1,0 +1,5 @@
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectHelperMethods\bin\Debug\KinectHelperMethods.dll
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectHelperMethods\bin\Debug\KinectHelperMethods.pdb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectHelperMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectHelperMethods\obj\Debug\KinectHelperMethods.dll
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\KinectMeasure\KinectHelperMethods\obj\Debug\KinectHelperMethods.pdb
